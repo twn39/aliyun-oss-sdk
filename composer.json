@@ -1,6 +1,9 @@
 {
     "name": "monster/aliyun-oss-sdk",
     "description": "aliyun oss sdk",
+    "keywords": ["aliyun", "oss", "sdk"],
+    "type": "library",
+    "homepage": "https://github.com/twn39/aliyun-oss-sdk.git",
     "license": "MIT",
     "autoload": {
         "files": ["src/sdk.class.php"]
@@ -11,6 +14,8 @@
             "email": "twn39@163.com"
         }
     ],
-    "minimum-stability": "alpha",
-    "require": {}
+    "minimum-stability": "1.0.0",
+    "require": {
+        "php": ">=5.4.0"
+    }
 }
