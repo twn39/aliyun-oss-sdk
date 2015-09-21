@@ -1,0 +1,16 @@
+{
+    "name": "monster/aliyun-oss-sdk",
+    "description": "aliyun oss sdk",
+    "license": "MIT",
+    "autoload": {
+        "files": ["src/sdk.class.php"]
+    },
+    "authors": [
+        {
+            "name": "twn39",
+            "email": "twn39@163.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {}
+}
